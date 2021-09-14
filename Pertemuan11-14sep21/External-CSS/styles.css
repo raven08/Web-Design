@@ -1,0 +1,10 @@
+body{
+    background-color: rgba(0, 255, 255, 0.233);
+}
+span{
+    font-family: Arial, Helvetica, sans-serif;
+    color: maroon;
+}
+h1,p{
+    color: midnightblue;
+}
